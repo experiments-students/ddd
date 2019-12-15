@@ -26,7 +26,7 @@
     
 }
 .navi{
-    height: 500px;
+    height: 900px;
     width: 240px;
     font-size: 20px;
     border-right: solid 1px #349FA6;
@@ -34,4 +34,29 @@
     border-bottom: solid 1px #349FA6;
     
     float: left;
+}
+.sns{
+    height: 900px;
+    width: 200px;
+    border: solid 1px #349FA6;
+    float: right;
+}
+.main{
+    text-align: center;
+    width: 100%;
+    
+}
+.midashi{
+    font-size: 30px;
+    
+}
+.mokuji{
+    margin-top: 50px;
+    letter-spacing:5px;
+}
+.main2{
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 3
+    
 }
